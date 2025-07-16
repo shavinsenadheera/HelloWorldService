@@ -1,0 +1,15 @@
+{
+  "/Users/shavindusenadheera/WSO2/SUPPORT_TICKETS/ALDAUTOMOTIVESUB-328/RESOURCES/HelloWorldService/src/test/wso2mi/HelloWorldTest.xml": {
+    "deploymentStatus": "PASSED",
+    "mediationStatus": "PASSED",
+    "currentTestCase": "HelloWorldAPI",
+    "testCases": [
+      {
+        "testCaseName": "HelloWorldAPI",
+        "mediationStatus": "PASSED",
+        "assertionStatus": "PASSED"
+      }
+    ]
+  },
+  "Time elapsed (ms)": 10127
+}

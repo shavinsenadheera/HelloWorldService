@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<api context="/HelloWorld" name="HelloWorld" xmlns="http://ws.apache.org/ns/synapse">
+<api name="HelloWorld" context="/HelloWorld1" xmlns="http://ws.apache.org/ns/synapse">
     <resource methods="GET">
         <inSequence>
             <payloadFactory media-type="json" template-type="default">
-                <format>{"Hello":"World"}</format>
+                <format>{"Hello":"Worlfddfdfsdd"}</format>
             </payloadFactory>
             <respond/>
         </inSequence>
